@@ -1,6 +1,6 @@
-Hello, my name is Packstone01!
-I’m interested in learning to code so that I can pursue a career in the IT field.
-I’m currently learning the basics of Github but soon will be moving on to Java.
+Hello, my name is Connor Schotz!
+
+Web developer currently working on personal portfolio and completion of The Odin Project.
 
 If you want to collaborate on a project or ask any questions regarding code you can email me at connor.schotz@gmail.com!
 
