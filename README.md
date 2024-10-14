@@ -1,12 +1,12 @@
 <h1 align="center">Hey there, I am Connor Schotz!</h1>
-<p align="center">Check out my website at https://www.connorschotz.com</p>
+<p align="center">Check out my website at https://www.connorschotz.com.</p>
 <p align="center">I am currently enrolled in college getting a degree in Web and Software Development and a focus on Back-end Programming.</p>
 
 <hr>
 
-<h2>Some of my interests and points of study are down below.</h2>
+<h2 align="center">Some of my interests and points of study are down below.</h2>
 
-<p style="display: inline-block;" align="center">
+<p align="center">
   <kbd>
     <kbd>Front-end</kbd>
     <br>
